@@ -8,6 +8,7 @@
             "email": "285081422@qq.com"
         }
     ],
+    "version": "v1.0.0",
     "require": {
         "php": ">=7.0.0",
         "ext-mbstring": "*",
