@@ -313,7 +313,7 @@ class Main extends BasicBank {
         $url      = $this->getNormalUrl();
         $serialNo = $this->getSerialNo();
         $reqTime  = $this->getReqTime();
-        
+
         if($predata){
             // 非现金管理授权 查询转账结果
             $opName = 'queryTransferResult2_1Op';

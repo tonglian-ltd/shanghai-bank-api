@@ -1,11 +1,11 @@
 {
-    "name": "dingq/shanghai-bank",
+    "name": "longlian-ltd/shanghai-bank",
     "description": "Shanghai Bank direct connection system interface",
     "license": "MIT",
     "authors": [
         {
-            "name": "DQ",
-            "email": "237661791@qq.com"
+            "name": "zhaokun",
+            "email": "285081422@qq.com"
         }
     ],
     "require": {
